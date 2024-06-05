@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="padding_pantalla">8dp</dimen>
+    <dimen name="casilla">60dp</dimen>
+    <dimen name="texto_titulo">20sp</dimen>
+    <dimen name="texto_boton">14sp</dimen>
+    <dimen name="ancho_min_boton">100dp</dimen>
+    <dimen name="alto_min_boton">30dp</dimen>
+    <dimen name="margen_boton">4dp</dimen>
+    <dimen name="radio_boton">10dp</dimen>
+    <dimen name="padding_boton">8dp</dimen>
+    <dimen name="texto_radio">10sp</dimen>
+</resources>
